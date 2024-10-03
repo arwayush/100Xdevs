@@ -134,7 +134,7 @@ grep -hi "setosa" iris.data.csv -> this command will give us all the instances i
 
 grep -hir "setosa" . -> occurences not only in file but the whole current directory
 
-grip -hinw "setosa" fileName -> this will give us only "setosa"✅ but will not give "\__stosa_" ❌
+grep -hinw "setosa" fileName -> this will give us only "setosa"✅ but will not give "\__stosa_" ❌
 
 grep -o "setosa" iris.data.csv -> gives us only the matched part
 

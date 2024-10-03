@@ -18,3 +18,12 @@ Status Code :-
 3. 500 :- Something went wrong / if something goes wrong with the server
 4. 411 :- inputs were incorrect,
 5. 403 :- You are not allowed, not have the access
+
+V8 Engine (C++), added few things on the top of NodeJs
+What Nodejs can be used for ??
+Ans: 1. CLIs 2. http server 3. video player 4. Games
+
+HTTP Server -> exposes your algorithems to the world, it lets people request for and use your logic
+
+1. Express
+2. NextJs

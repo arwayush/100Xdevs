@@ -24,8 +24,8 @@ HTTP server side
 
 HTTP Protocols
 **at client side**
-Route:- it is after the website is written, because there are the bunch of things which can be done by chatgpt,
-Header:- Generaly the authentic info is send, such as you are loggedIn which is done by the use of cookie
+Route:- it is after the website is written, because there are the bunch of things which can be done by any website,
+Header:- Generaly the authentic info is send, such as you are loggedIn which is done by the use of cookies
 Body:- generally arguments are send, and recieved
 Method:- which kind of request you are asking eg: post, get, etc.
 

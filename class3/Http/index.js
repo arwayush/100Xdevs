@@ -7,7 +7,6 @@ const port = process.env.PORT || 3006;
 app.get("/", function (req, res) {
   console.log(req.body.message);
   res.send("Hello bhai from local network");
-  res.send("2nd tie");
 });
 
 app.listen(port);

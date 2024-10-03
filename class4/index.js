@@ -35,7 +35,7 @@ app.get("/", (req, res) => {
   }
   const numOfUnhealthyKidney = totalKidneys - numOfHealthyKidney;
   res.json({ totalKidneys, numOfHealthyKidney, numOfUnhealthyKidney });
-  //   res.send("The total number of Kidneys you have are:" + totalKidneys);
+  // res.send("The total number of Kidneys you have are:" + totalKidneys);
 });
 
 app.use(express.json());

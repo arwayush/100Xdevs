@@ -1,7 +1,7 @@
 //map, filter and arrow function
 
 // const ip = [1, 2, 3, 4, 5]; //-> input array
-// function transform() {
+// function transform(i) {
 //   //  -> transformation function
 //   return i * 2;
 // }
